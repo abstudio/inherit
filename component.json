@@ -2,7 +2,7 @@
   "name": "inherit",
   "repo": "abstudio/inherit",
   "description": "Inherit class by class",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "keywords": ["inherit"],
   "dependencies": {
     "abstudio/mixin": "0.1.0"
